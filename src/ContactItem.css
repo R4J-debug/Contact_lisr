@@ -1,0 +1,33 @@
+.contact-item {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .contact-item button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #dc3545;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .contact-item button:hover {
+    background-color: #c82333;
+  }
+  
+  .contact-item button.edit {
+    background-color: #362db1;
+  }
+  
+  .contact-item button.edit:hover {
+    background-color: #218838;
+  }
+  

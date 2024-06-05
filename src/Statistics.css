@@ -1,0 +1,11 @@
+.statistics {
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .statistics p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
